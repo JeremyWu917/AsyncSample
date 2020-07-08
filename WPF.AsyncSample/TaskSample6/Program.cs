@@ -27,6 +27,10 @@ namespace TaskSample6
             Thread.Sleep(5000);
             //source.Cancel()方法请求取消任务，IsCancellationRequested会变成true
             source.Cancel();
+
+            //延时取消，效果等同于Thread.Sleep(5000);source.Cancel();
+            //source.CancelAfter(5000);
+
             Console.ReadKey();
         }
     }
