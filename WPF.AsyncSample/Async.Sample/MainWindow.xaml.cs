@@ -56,8 +56,16 @@ namespace Async.Sample
             // integer result.
             return exampleInt;
         }
+
+
         // The example displays the following output:
         // Preparing to finish ExampleMethodAsync.
         // Length: 53292
+
+
+
+ 
+
+
     }
 }
