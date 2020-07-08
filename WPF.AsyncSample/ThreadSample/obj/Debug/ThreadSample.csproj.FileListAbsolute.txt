@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\AsyncSample\WPF.AsyncSample\ThreadSample\bin\Debug\ThreadSample.exe.config
+C:\Users\Administrator\Desktop\AsyncSample\WPF.AsyncSample\ThreadSample\bin\Debug\ThreadSample.exe
+C:\Users\Administrator\Desktop\AsyncSample\WPF.AsyncSample\ThreadSample\bin\Debug\ThreadSample.pdb
+C:\Users\Administrator\Desktop\AsyncSample\WPF.AsyncSample\ThreadSample\obj\Debug\ThreadSample.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\AsyncSample\WPF.AsyncSample\ThreadSample\obj\Debug\ThreadSample.exe
+C:\Users\Administrator\Desktop\AsyncSample\WPF.AsyncSample\ThreadSample\obj\Debug\ThreadSample.pdb
