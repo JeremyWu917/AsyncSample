@@ -1,0 +1,2 @@
+C:\Users\Administrator\Desktop\AsyncSample\WPF.AsyncSample\Task.Sample\obj\Debug\Task.Sample.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\AsyncSample\WPF.AsyncSample\Task.Sample\obj\Debug\Task.Sample.csproj.CoreCompileInputs.cache

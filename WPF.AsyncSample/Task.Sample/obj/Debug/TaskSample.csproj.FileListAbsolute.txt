@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\AsyncSample\WPF.AsyncSample\Task.Sample\obj\Debug\TaskSample.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\AsyncSample\WPF.AsyncSample\Task.Sample\bin\Debug\TaskSample.exe.config
+C:\Users\Administrator\Desktop\AsyncSample\WPF.AsyncSample\Task.Sample\bin\Debug\TaskSample.exe
+C:\Users\Administrator\Desktop\AsyncSample\WPF.AsyncSample\Task.Sample\bin\Debug\TaskSample.pdb
+C:\Users\Administrator\Desktop\AsyncSample\WPF.AsyncSample\Task.Sample\obj\Debug\TaskSample.exe
+C:\Users\Administrator\Desktop\AsyncSample\WPF.AsyncSample\Task.Sample\obj\Debug\TaskSample.pdb
