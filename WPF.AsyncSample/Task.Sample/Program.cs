@@ -9,6 +9,10 @@ namespace TaskSample
 {
     class Program
     {
+        /// <summary>
+        /// 无参数Task研究
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
             //1.new方式实例化一个Task，需要通过Start方法启动
